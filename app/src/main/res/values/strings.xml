@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cities Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="country_detail">Country : %1$s</string>
+    <string name="population_detail">Population : %1$s Million</string>
+</resources>
